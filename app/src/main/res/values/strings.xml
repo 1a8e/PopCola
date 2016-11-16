@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopCola</string>
+    <string name="no_message">No message!</string>
+    <string name="title_activity_welcome">Welcome</string>
+</resources>
