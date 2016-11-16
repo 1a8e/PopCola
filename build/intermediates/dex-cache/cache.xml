@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d37330c92724da10c3bed12f1a756fec29eeec21">
+        sha1="df97797a710f308357d57717b32b96d92cfe7fc6">
         <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_398bb60455326d9894c5429f26c32c00dc364d98/classes.dex" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="e9c31d82a583a5a1ad9d65a300c91cffaed01daf">
+        sha1="67ba82689171b245ec803dad97efe3be39842bd5">
         <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_33ce14764793ef7e24a43b2bf8231d7854214abd/classes.dex" />
     </item>
     <item
@@ -93,21 +93,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_fccd0c9ef5012f0fe05b16f1aa6cf33c8b48eb58/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
         <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7ef1039a7f9e0525bc19b4a058abc32380acc6eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_fccd0c9ef5012f0fe05b16f1aa6cf33c8b48eb58/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,21 +156,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_eea49581b32b5fa1f3ab64bb9e6e0df156149326/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
         <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_13758371cb0fd1609efbb6bb9bd4396aa42766f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_eea49581b32b5fa1f3ab64bb9e6e0df156149326/classes.dex" />
     </item>
     <item
         is-multidex="true"
