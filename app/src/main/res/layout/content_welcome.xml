@@ -61,51 +61,51 @@
             android:layout_width="match_parent"
             android:layout_height="@dimen/activity_vertical_margin" />
 
-        <Space
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/activity_vertical_margin" />
+        <!--<Space-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="@dimen/activity_vertical_margin" />-->
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content">-->
 
-            <TextView
-                android:text="Movie"
-                android:layout_weight="1"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView16" />
+            <!--<TextView-->
+                <!--android:text="Movie"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/textView16" />-->
 
-            <TextView
-                android:text="Show"
-                android:layout_weight="1"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView17" />
+            <!--<TextView-->
+                <!--android:text="Show"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/textView17" />-->
 
-        </LinearLayout>
+        <!--</LinearLayout>-->
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content">-->
 
-            <TextView
-                android:text="tv_movie"
-                android:layout_weight="1"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView_movie"
-                android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+            <!--<TextView-->
+                <!--android:text="tv_movie"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/textView_movie"-->
+                <!--android:textAppearance="@style/TextAppearance.AppCompat.Display1" />-->
 
-            <TextView
-                android:text="tv_show"
-                android:layout_weight="1"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView_show"
-                android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+            <!--<TextView-->
+                <!--android:text="tv_show"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/textView_show"-->
+                <!--android:textAppearance="@style/TextAppearance.AppCompat.Display1" />-->
 
-        </LinearLayout>
+        <!--</LinearLayout>-->
 
         <Space
             android:layout_width="match_parent"
@@ -194,6 +194,7 @@
         style="@style/Widget.AppCompat.Button.Borderless.Colored"
         android:textColor="@android:color/white"
         android:background="@android:color/holo_green_light"
-        android:backgroundTint="?android:attr/colorFocusedHighlight" />
+        android:backgroundTint="?android:attr/colorFocusedHighlight"
+        android:onClick="onConfirm" />
 
 </RelativeLayout>
