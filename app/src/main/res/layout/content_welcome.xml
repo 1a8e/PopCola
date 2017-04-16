@@ -22,7 +22,7 @@
             android:text="tv_theater"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView_theater"
+            android:id="@+id/textView_theatre"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
 
         <TextView
