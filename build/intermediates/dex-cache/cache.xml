@@ -3,183 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f99e261634746fbebd38542542bcbc593cd7aa45/classes.dex" />
+        revision="25.0.2"
+        sha1="3c2e8edc4f28d9eac1ae0b42459eeb3929add0ac">
+        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_33ce14764793ef7e24a43b2bf8231d7854214abd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/android-sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_acc73e4ee5a95a149a64c98ae3a02c1a889b532c/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="5fe84bb92083cab5b15a080d72d95b2502e40f91">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_398bb60455326d9894c5429f26c32c00dc364d98/classes.dex" />
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_398bb60455326d9894c5429f26c32c00dc364d98/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jar="/home/cyan/AndroidStudioProjects/PopCola/app/libs/PGSDK_V2.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_c43796bea6a24a0a473afee66a45e7fc22262cf8/classes.dex" />
+        revision="25.0.2"
+        sha1="ac7573d38f31559f8f027eb698769d3ebad40b64">
+        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/2/PGSDK_V2.0_374cd6880249e431ba1151ad53c62683b9a3eb4c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jar="/home/cyan/.android/build-cache/59205103400d99384e3d05783a04f1626e9fedb0/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_23f58e0c470683835cefc10ab64cf275c2f5b6a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4adfb354f871c74bf42cd113a639c3ffb09e6e28/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_97325214c4023015aa3316c633cfab9e039b86d4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="eb8f971ce2e1b2a5d6f1419c9bf628b260f3af3d">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_33ce14764793ef7e24a43b2bf8231d7854214abd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_e5d7996a5bb5f8bc965cbe5649151492c28de44d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9023793e033d4bd47fb801254878e4646654dabd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b3689153d93a2d50bf9467a6f6e9507c2e30084e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_fccd0c9ef5012f0fe05b16f1aa6cf33c8b48eb58/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7ef1039a7f9e0525bc19b4a058abc32380acc6eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_929fd2f423c09ca0961a99ef724298187a9f8390/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_bd716b1bd6f0ee09d4c7908061ca072e44d87d86/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_d07c345488c4955e893c0d72b782633b23125c56/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_5653696ac90fd7f59732e71996b999871eb84587/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_82303c90a23381631327cefaed4165305835834f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_13758371cb0fd1609efbb6bb9bd4396aa42766f3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_eea49581b32b5fa1f3ab64bb9e6e0df156149326/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_c5dad26935e5309605957d824abc95b4e2134e8d/classes.dex" />
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e06f615edd23e137c30bdc42a51786323eacaf5/classes.dex" />
     </item>
 
 </items>
